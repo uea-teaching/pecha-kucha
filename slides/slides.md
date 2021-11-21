@@ -64,6 +64,12 @@ class Net(nn.Module):
         self.fc2 = nn.Linear(128, 10)
 ```
 
+::: notes
+This is the constructor for a PyTorch model to classify hand written digits.
+It uses one of the fundamental components of neural networks: convolutional layers.
+I have highlighted the code for the convolutional layers.
+:::
+
 ## {data-background-video=assets/faces_not_real.mp4 data-background-video-loop="loop"}
 
 # {data-background-image=assets/eclipse.jpg}
@@ -96,4 +102,11 @@ The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. 
 
 # Distribution
 
-The slides are available for download here:
+All code available [here](https://github.com/uea-teaching/pecha-kucha).
+
+::: notes
+To wrap up the presentation, I will mention that I did NOT use PowerPoint.
+I can't use powerpoint - the amount of buttons fills me with anxiety at hte very sight of them.
+I prefer to write my material in a plain text format that anyone can view or edit.
+And I have made all my code available on the web.
+:::
