@@ -36,7 +36,11 @@ Our focus was on Digital Humans - how we can represent ourselves in a digital wo
 I still worked with cameras and images, objectively, for data collection.
 :::
 
-# {data-background-image=assets/matrix.gif}
+# Computer Science {data-background-image=assets/ENIAC.jpg}
+
+::: notes
+ENIAC was the first electronic, Turing-complete device, and performed ballistics trajectory calculations for the United States Army.
+:::
 
 ## Equations
 
@@ -70,6 +74,8 @@ It uses one of the fundamental components of neural networks: convolutional laye
 I have highlighted the code for the convolutional layers.
 :::
 
+# Computer Vison {data-background-image=assets/matrix.gif}
+
 ## {data-background-video=assets/faces_not_real.mp4 data-background-video-loop="loop"}
 
 # {data-background-image=assets/eclipse.jpg}
@@ -94,10 +100,8 @@ The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. 
 
 ::: notes
 Due to redundancy effect in working memory: speaking while having sentences on screen results in low recollection by audience.
-
 The redundancy principle (or redundancy effect) suggests that redundant material interferes with rather than facilitates learning.
-
-The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. Mayer
+From the book - The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. Mayer
 :::
 
 # Distribution
@@ -107,6 +111,7 @@ All code available [here](https://github.com/uea-teaching/pecha-kucha).
 ::: notes
 To wrap up the presentation, I will mention that I did NOT use PowerPoint.
 I can't use powerpoint - the amount of buttons fills me with anxiety at hte very sight of them.
+In fact, powerpoint fails to provide the tools I need - it does not have a means for showing source code, or a standard way of showing equations.
 I prefer to write my material in a plain text format that anyone can view or edit.
-And I have made all my code available on the web.
+I have made all my code available at the link so you can see for yourself.
 :::
