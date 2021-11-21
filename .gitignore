@@ -1,0 +1,16 @@
+* 
+
+!README.md
+!.gitignore
+!Makefile
+
+!slides
+!slides/assets
+!slides/assets/*.jpg
+!slides/assets/*.png
+!slides/assets/*.gif
+!slides/assets/*.mp4
+!slides/assets/*.css
+
+!slides/*.md
+!slides/Makefile
