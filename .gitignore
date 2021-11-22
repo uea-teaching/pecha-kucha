@@ -13,5 +13,4 @@
 !slides/assets/*.mp4
 !slides/assets/*.css
 
-!slides/*.md
-!slides/Makefile
+!slides/*.html
