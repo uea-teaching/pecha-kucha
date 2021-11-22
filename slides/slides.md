@@ -150,6 +150,11 @@ It happened a long time ago, I mostly have leant to live with it - but it does g
 ![](assets/motion.gif){width=50%}
 
 ::: notes
+We are very receptive to both detecting motion.
+
+Think of trying to have a conversation with someone - while a television is on behind them.
+Even with the sound off - it really pulls on your attention.
+
 Visual perception of biological motion and a model for its analysis. Gunnar Johansson.
 It is found that 10–12 such elements in adequate motion combinations in proximal stimulus evoke a compelling impression of human motion.
 :::
@@ -205,8 +210,8 @@ All code available [here](https://github.com/uea-teaching/pecha-kucha).
 
 ::: notes
 To wrap up the presentation, I will mention that I did NOT use PowerPoint.
-I can't use powerpoint - the amount of buttons fills me with anxiety at hte very sight of them.
-In fact, powerpoint fails to provide the tools I need - it does not have a means for showing source code, or a standard way of showing equations.
+I can't use powerpoint - the amount of buttons fills me with anxiety at the very sight of them.
+Worse, powerpoint fails to provide the tools I need - it does not have a means for showing source code, or a standard way of showing equations.
 I prefer to write my material in a plain text format that anyone can view or edit.
-I have made all my code available at the link so you can see for yourself.
+As such, I have made all my code available at the link so you can see for yourself.
 :::
