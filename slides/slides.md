@@ -157,15 +157,25 @@ It is found that 10–12 such elements in adequate motion combinations in proxim
 ## {data-background-image=assets/mondrian.jpg}
 
 ::: notes
-Piet Mondrian eventually decided to limit his formal vocabulary to the three primary colors (red, blue and yellow), the three primary values (black, white and gray) and the two primary directions (horizontal and vertical).
+Piet Mondrian eventually decided to limit his formal vocabulary to the three
+primary colors (red, blue and yellow),
+the three primary values (black, white and gray)
+and the two primary directions (horizontal and vertical).
 :::
 
 ## {data-background-image=assets/size.jpg}
 
+::: notes
+One easy way to draw attention or make a point is to make the text bigger.
+Notice how the large text is more compelling than the small text.
+Often slide software reverses the emphasis of the text - larger headlines and smaller descriptive text.
+We can change it if we want...
+:::
+
 ## {data-background-image=assets/dice.jpg}
 
 ::: notes
-For cognitive load it requires 500% more effort to count than to recognise.
+It requires 500% more cognitive effort to count than to recognise.
 The greatest number of objects we can recognise is SIX.
 Our energy conserving brains weigh up the effort to count or ignore - and choose ignore...
 :::
@@ -173,17 +183,20 @@ Our energy conserving brains weigh up the effort to count or ignore - and choose
 ## {data-background-image=assets/columbia_slide.png}
 
 ::: notes
-Due to redundancy effect in working memory: speaking while having sentences on screen results in low recollection by audience.
+This one we are all guilty of...
+Due to the redundancy effect in working memory: speaking while having sentences on screen results in very low recollection by audience.
 The redundancy principle (or redundancy effect) suggests that redundant material interferes with rather than facilitates learning.
-The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. Mayer
+From: The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. Mayer
+
+Edward Tufte analysed this slide...
 :::
 
 ## {data-background-image=assets/columbia_2003.jpg}
 
 ::: notes
-Due to redundancy effect in working memory: speaking while having sentences on screen results in low recollection by audience.
-The redundancy principle (or redundancy effect) suggests that redundant material interferes with rather than facilitates learning.
-From the book - The Redundancy Principle in Multimedia Learning (2014) John Sweller. Richard E. Mayer
+Edward Tufte analysed this slide...
+He found the complex hierarchy and de-emphasis of the most important points contributed to the engineers at NASA not recognising the possibility of damage to the re-entry shields of the Columbia.
+The catastrophic consequences resulted in the unfortunate loss of all 7 crew members.
 :::
 
 # Distribution
