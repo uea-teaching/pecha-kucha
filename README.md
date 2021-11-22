@@ -11,7 +11,7 @@ This presentation follows this script:
 - What is computer science?
 - What is computer vision?
 - Working with faces.
-- Presenting the results.
+- Presenting tips.
 
 ## Building
 
