@@ -1,9 +1,11 @@
 # Pecha Kucha
 
 Pecha Kucha is a presentation format for quickly getting ideas to your audience.
-It is constrained to 20 slides with 20 seconds foe each slide.
+It is constrained to 20 slides with 20 seconds for each slide.
 
 ## Presentation
+
+The online slides are [here](https://uea-teaching.github.io/pecha-kucha/slides/slides.html)
 
 This presentation follows this script:
 
