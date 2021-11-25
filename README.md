@@ -15,6 +15,17 @@ This presentation follows this script:
 - Working with faces.
 - Presenting tips.
 
+### Introduction
+
+My presentation starts as a personal reflection, on how I arrived, by fairly unconventional means, to this field.
+
+<!-- I wanted to use some ideas here, that I will use as I present to students. -->
+
+I want to introduce at a very high level, what is computer science, and particularly computer vision.
+I will then talk a little about working with faces.
+
+Finally, I will make some remarks about presenting - including some items that have only recently become known to me.
+
 ## Building
 
 The content is written in `Markdown` and converted using `pandoc`.
